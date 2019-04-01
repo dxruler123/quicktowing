@@ -2422,25 +2422,25 @@ body {
   border-radius: 50%;
   content: '✓';
 }
-.cid-r7TUNUzHi1 {
+.cid-rmr5eyivqx {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-color: #ffffff;
   position: relative;
+  background-color: #ffffff;
 }
-.cid-r7TUNUzHi1 p {
+.cid-rmr5eyivqx p {
   color: #767676;
 }
-.cid-r7TUNUzHi1 .card {
+.cid-rmr5eyivqx .card {
   border-radius: 0px;
   margin-bottom: -1px;
 }
-.cid-r7TUNUzHi1 .card .card-header {
+.cid-rmr5eyivqx .card .card-header {
   border-radius: 0px;
   border: 0px;
   padding: 0;
 }
-.cid-r7TUNUzHi1 .card .card-header a.panel-title {
+.cid-rmr5eyivqx .card .card-header a.panel-title {
   margin-bottom: 0;
   margin-top: -1px;
   font-weight: 500;
@@ -2449,17 +2449,20 @@ body {
   text-decoration: none !important;
   line-height: normal;
 }
-.cid-r7TUNUzHi1 .card .card-header a.panel-title:focus {
+.cid-rmr5eyivqx .card .card-header a.panel-title:focus {
   text-decoration: none !important;
 }
-.cid-r7TUNUzHi1 .card .card-header a.panel-title h4 {
+.cid-rmr5eyivqx .card .card-header a.panel-title h4 {
   border: 1px solid #dfdfdf;
   padding: 1.3rem 2rem;
   margin-bottom: 0;
 }
-.cid-r7TUNUzHi1 .card .card-header a.panel-title h4 .sign {
+.cid-rmr5eyivqx .card .card-header a.panel-title h4 .sign {
   padding-right: 1rem;
 }
-.cid-r7TUNUzHi1 H2 {
-  color: #149dcc;
+.cid-rmr5eyivqx B {
+  color: #55b4d4;
+}
+.cid-rmr5eyivqx .panel-text {
+  color: #232323;
 }
